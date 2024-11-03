@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![An image of @hridyanshu054's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hridyanshu054)](https://holopin.io/@hridyanshu054)
+
 <!--
 **HRIDYANSHU054/HRIDYANSHU054** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
